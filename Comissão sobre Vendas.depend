@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647518103 source:c:\users\fatecano\documents\aulas de linguagem c\comissão sobre vendas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
